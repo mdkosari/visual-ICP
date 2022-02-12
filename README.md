@@ -17,8 +17,13 @@ The project is to calculate points with the algorithm and visual display to comp
 ## Requirments:
  * <a href="https://www.python.org/downloads/release/python-374/">Python 3.7.4</a>
  * <a href="https://pypi.org/project/numpy1/">Numpy</a>
- *  * <a href="https://pypi.org/project/pandas/">Pandas</a>
+ * <a href="https://pypi.org/project/pandas/">Pandas</a>
  * <a href="https://pypi.org/project/vtk/">Vtk</a>
+ * <a href="https://pypi.org/project/pynrrd/">Pynrrd</a>
+ * <a href="https://pypi.org/project/pptk/">Pptk </a>
+ * <a href="https://pypi.org/project/termcolor/">Termcolor</a>
+
+
 
 
 
