@@ -15,10 +15,10 @@ The project is to calculate points with the algorithm and visual display to comp
 
 
 ## Requirments:
- * <a href="https://numpy.org/">NumPy</a>
- * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumP="
- * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumPy
- * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumPy
+ * <a href="https://www.python.org/downloads/release/python-374/">Python 3.7.4</a>
+ * <a href="https://pypi.org/project/numpy1/">Numpy</a>
+ *  * <a href="https://pypi.org/project/pandas/">Pandas</a>
+ * <a href="https://pypi.org/project/vtk/">Vtk</a>
 
 
 
