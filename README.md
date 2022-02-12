@@ -1,6 +1,6 @@
 # Visual ICP
 
-<p align="center"><img src="/documentation/img/logo.png" alt="Matrix Operation" width=320 height=300/></p>
+<p align="center"><img src="/Documents/logo.png" alt="Matrix Operation" width=320 height=300/></p>
 <br>
 
 ## Visual ICP
