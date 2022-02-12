@@ -14,4 +14,11 @@ The project is to calculate points with the algorithm and visual display to comp
  * etc
 
 
+## Requirments:
+ * <a href="https://numpy.org/">NumPy</a>
+ * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumP="
+ * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumPy
+ * <img src="/documentation/img/minister.png" alt="minister" width=20 height=20/> NumPy
+
+
 
