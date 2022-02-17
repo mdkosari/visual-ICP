@@ -2,7 +2,7 @@
 <p align="center"><img src="/Documents/logo.jpg" alt="Visual ICP" width=320 height=300/></p>
 <br>
 
-## Visual ICP
+## Aboute
 Iterative closest point (ICP is an algorithm employed to minimize the difference between two clouds of points.
 The project is to calculate points with the algorithm and visual display to compare the performance of the algorithm
 
